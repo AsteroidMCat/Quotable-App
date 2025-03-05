@@ -2,7 +2,7 @@
 
 ## Author
 
-**Julie Cmelik with sources attributed in code**
+**Julie Cmelik**
 
 ## Description
 

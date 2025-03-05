@@ -9,7 +9,7 @@
 This program allows you to store and favorite the quotes that you hear throughout the day.
 
 ## External Resources
-- [# Swipe-to-Dismiss with Material 3 (modified at times for project)](https://www.geeksforgeeks.org/android-jetpack-compose-swipe-to-dismiss-with-material-3/)
+- [Swipe-to-Dismiss with Material 3 (modified at times for project)](https://www.geeksforgeeks.org/android-jetpack-compose-swipe-to-dismiss-with-material-3/)
 
 ## Shortcomings
 

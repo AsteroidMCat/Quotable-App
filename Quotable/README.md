@@ -16,5 +16,3 @@ This program allows you to store and favorite the quotes that you hear throughou
 * When a user finished inputting a quote, pressing the button or "Done" refocuses the author text input box instead of the top input box.
 <<<<<<< HEAD:Quotable/README.md
 * On the favorites screen, a user can swipe right even thought doing so starts nothing.
-=======
->>>>>>> c685f7a9855ea7b952cc04141feef770860158de:README.md
